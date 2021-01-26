@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-B2C_Demo-415CBDB3-69A7-49BA-95D5-6480B4F7A03D</UserSecretsId>
+    <RootNamespace>B2C_Demo</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.AzureADB2C.UI" Version="3.1.11" />
+  </ItemGroup>
+
+</Project>
